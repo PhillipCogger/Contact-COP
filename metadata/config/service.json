@@ -2,5 +2,6 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Contact the Court of Protection"
+  "name": "Contact the Court of Protection",
+  "phase": "none"
 }
