@@ -1,9 +1,9 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "We don't reply to messages that:\r\n\r\n* contain offensive or abusive language or material\r\n* are repeat enquiries\r\n* sell or promote a product\r\n\r\nWe aim to respond to you as soon as possible, but allow up to [x days].",
+  "body": "You cannot use this form to send messages that:\r\n\r\n* contain offensive or abusive language or material\r\n* are repeat enquiries\r\n* sell or promote a product\r\n\r\nWe aim to respond to you as soon as possible, but allow up to [x days].",
   "heading": "Contact the Court of Protection",
-  "lede": "Use this service to contact the Court of Protection.",
+  "lede": "Use this form to contact the Court of Protection.",
   "steps": [
     "page.contact-reason"
   ],
